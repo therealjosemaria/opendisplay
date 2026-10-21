@@ -1,0 +1,15 @@
+{
+  "scope": "Discovery only; no video or phone connection",
+  "target": "windows/amd64",
+  "tests": {
+    "protocol_unit_tests": 4,
+    "fuzz_inputs": 166946,
+    "failures": 0,
+    "localhost_udp_round_trip": "passed"
+  },
+  "windows_execution": "pending user test",
+  "native_picker_visibility": "unverified",
+  "signing": "unsigned",
+  "mac_contribution": "unchanged",
+  "executable_sha256": "37849b2dc31a93b6cc2eac456e15dfc83a7b66de0053ebdd877f5085069414ca"
+}
