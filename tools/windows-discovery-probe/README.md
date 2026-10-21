@@ -1,5 +1,7 @@
 # Windows native discovery experiment
 
+**For the real Windows sender, use the [Windows setup kit](../windows-sender-kit/README.md).** The discovery probe did not appear in Win+K on the tested Dell. It does not provide a second display.
+
 **[Download the Windows x64 test ZIP](https://github.com/therealjosemaria/opendisplay/raw/refs/heads/codex/windows-discovery-probe/tools/windows-discovery-probe/downloads/OpenDisplay-Windows-Discovery-Test.zip)** · [ZIP checksum](downloads/SHA256SUMS.txt)
 
 No Go, Node or developer tools are needed to run the executable.

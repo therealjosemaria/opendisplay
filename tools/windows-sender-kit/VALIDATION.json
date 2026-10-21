@@ -1,0 +1,22 @@
+{
+  "kit": "Windows sender setup review 2026-10-21",
+  "sender": "martinhoess/opendisplay-win v0.1.0, unchanged",
+  "sender_sha256": "6598cba78a56a2c81108530f7b3c94ae30d4b1d4f4b144886505fe2618891244",
+  "setup_sha256": "57b725984b6a8e36354677dc58fc1051616c4d7bdd002d470dc252ab6c8af213",
+  "tests": {
+    "top_level": 7,
+    "failure_subcases": 7,
+    "failed": 0,
+    "localhost_download_integrity": "passed",
+    "windows_amd64_cross_compilation": "passed"
+  },
+  "physical_windows_driver_and_iphone_test": "pending",
+  "published_as": "experimental setup kit, not a verified end-to-end release",
+  "source_hashes": {
+    "go.mod": "cb0fcfe9c16b717516af86c03062e244ae7658f07fe45b33cf44a185d4d98ec5",
+    "main.go": "66831c8e504f282696ce504b27637b700e17e72f7ab368fc5f24cf2f6e5702ce",
+    "main_test.go": "a8a32bbbe437c27dbce1ce4fb1d9975480c71dd5da6bca0110411fd63fe52ea3",
+    "platform_windows.go": "312c24d1e803d9137b2450f92f17c8679183006e40c6aa67569d8bc075046c22",
+    "platform_other.go": "cf88f7ccc8dc036162361d58cb1d2fe36733f4682544392fd2a64d902689f89d"
+  }
+}
